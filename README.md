@@ -29,3 +29,6 @@ O foco principal é a *modelagem do banco de dados*, incluindo:
 - Livro N:N Autor  
 - Livro 1:N Exemplar  
 - Empréstimo N:1 Exemplar
+
+ ## 📌 Sitema utilizado:
+  - SQLiteStudio
